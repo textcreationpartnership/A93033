@@ -1,0 +1,546 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rape of Lucrece, committed by Tarquin the sixt; and the remarkable judgments that befel him for it. / By the incomparable master of our English poetry, Will: Shakespeare gent. Whereunto is annexed, The banishment of Tarquin: or, the reward of lust. By J. Quarles.</title>
+            <author>Shakespeare, William, 1564-1616.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93033</idno>
+            <idno type="STC">Wing S2943</idno>
+            <idno type="STC">Thomason E1672_3</idno>
+            <idno type="STC">Thomason E1672_4</idno>
+            <idno type="STC">ESTC R13087</idno>
+            <idno type="EEBO-CITATION">99859408</idno>
+            <idno type="PROQUEST">99859408</idno>
+            <idno type="VID">170248</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170248)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 209:E1672[3] or 209:E1672[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rape of Lucrece, committed by Tarquin the sixt; and the remarkable judgments that befel him for it. / By the incomparable master of our English poetry, Will: Shakespeare gent. Whereunto is annexed, The banishment of Tarquin: or, the reward of lust. By J. Quarles.</title>
+                  <author>Shakespeare, William, 1564-1616.</author>
+                  <author>Quarles, John, 1624-1665. Tarquin banished: or, The reward of lust.</author>
+               </titleStmt>
+               <extent>[6], 71, [5], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for John Stafford in George-yard neer Fleet-bridge, and Will: Gilbertson at the Bible in Giltspur-street,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Tarquin banished: or, The revvard of lust" has separate dated title page; identified as E.1672[4] on Thomason Tracts.</note>
+                  <note>Annotation on Thomason copy: "Aug: 31".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170248:1" rendition="simple:additions"/>
+            <p>
+               <hi>TARQ<g ref="char:V">Ʋ</g>IN</hi> BANISHED: OR, THE REVVARD Of LUST.</p>
+            <p>VVritten by <hi>J. Q.</hi>
+            </p>
+            <q xml:lang="lat">Quicquid boni cum diſcretione feceris, virtus eſt; quicquid ſine diſcretione geſſeris, vitium eſt: virtus enim indiſcreta pro vitio deputa<g ref="char:EOLhyphen"/>tur.</q>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>J. G.</hi> for <hi>John Stafford</hi> at Fleet-bridge, and <hi>Will: Gilbertſon</hi> in Giltſpur-ſtreet. 1655.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:170248:2"/>
+            <pb facs="tcp:170248:2"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Kinde Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Am confident when thou doeſt ſeriouſly conſider the unworthi<g ref="char:EOLhyphen"/>neſſe of the Action, thou wilt not approve of the Actor; for, after he had received thoſe many civilities which the houſe of chaſt <hi>Lucretia</hi> could afford, he with an unheard-of violence, requited her with a moſt barbarous rape, which cauſe not only his baniſhment, but likewiſe coſt the lives of many of the No<g ref="char:EOLhyphen"/>bility; nay, and the King himſelf in defence of his ſon, the Raviſher,
+<pb facs="tcp:170248:3"/>loſt his life; and that which wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more than all, was the loſſe of <hi>Lu<g ref="char:EOLunhyphen"/>cretia</hi>'s life: for the ſenſe of the fact, made her ſtab her ſelf; ſo died poor <hi>Lucretia,</hi> blameable in no<g ref="char:EOLhyphen"/>thing but that ſhe was the Author of her own death: So Reader, as thou haſt before read <hi>Tarqiun</hi>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of<g ref="char:EOLhyphen"/>fence, thou mayſt now read his pu<g ref="char:EOLhyphen"/>niſhment.</p>
+            <closer>
+               <salute>And ſo farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:170248:3"/>
+            <head>TARQ<g ref="char:V">Ʋ</g>IN <hi>Baniſhed: OR,</hi> The reward of Luſt.</head>
+            <lg>
+               <l>TIs ſeldome known that good effects attend</l>
+               <l>Upon bad cauſes; <hi>Tarquin,</hi> to befriend</l>
+               <l>His own deſires, contaminates his will,</l>
+               <l>And blaſts that vertue, which before did fill</l>
+               <l>The ears of <hi>Rome,</hi> and made it to proclame</l>
+               <l>The future hopes of his encreaſing name.</l>
+            </lg>
+            <lg>
+               <l>May we not judge him wiſe that loves to ſpend</l>
+               <l>Ere he begins, ſome thoughts upon the end</l>
+               <l>Of his deſigne, had <hi>Pha'ton</hi> done the ſame</l>
+               <l>He had not turn'd the world into a flame.</l>
+            </lg>
+            <lg>
+               <l>The acts of <hi>Catiline,</hi> were noble deeds</l>
+               <l>Compar'd to this, this horrid act exceeds</l>
+               <l>Horror it ſelf; Oh what obdurate breaſt</l>
+               <l>Can read this ſtory, and not be oppreſt,</l>
+            </lg>
+            <lg>
+               <l>If ever miſchief practis'd to excell</l>
+               <l>It was in this, this Maſter-piece of Hell.</l>
+               <l>
+                  <pb n="2" facs="tcp:170248:4"/>
+Had chaſt <hi>Lucretia</hi> follow'd the advice</l>
+               <l>Of luſtfull <hi>Tarquin,</hi> what a laviſh price</l>
+               <l>Had ſhe layd out for ſin, and yet the ſhame</l>
+               <l>Had been far greater, and her death the ſame</l>
+               <l>If not much worſe, for had ſhe not reveal'd it,</l>
+               <l>T' had prov'd her death to think ſhe had con<g ref="char:EOLhyphen"/>ceal'd it.</l>
+            </lg>
+            <lg>
+               <l>Ah poor <hi>Lucretia!</hi> what a fatall gueſt</l>
+               <l>Didſt thou receive, how was thy roof unbleſt</l>
+               <l>And thou miſtook, how ſadly did it prove</l>
+               <l>Thy table fed a Serpent, not a Dove:</l>
+               <l>It was thy face, <hi>Lucretia,</hi> that was ſpread</l>
+               <l>With laviſh beauty, and there <hi>Tarquin</hi> fed.</l>
+            </lg>
+            <lg>
+               <l>'Twas not to take repoſe, he made ſuch ſpeed,</l>
+               <l>Nor was't the arrant of his minde to feed</l>
+               <l>Upon ſuch Cates, his eye had choſe a diſh</l>
+               <l>Which pleas'd him, and awhile he fed by wiſh:</l>
+               <l>And then by force, <hi>Lucretia,</hi> thou didſt finde</l>
+               <l>The raging ſtomach of his luſtfull minde.</l>
+            </lg>
+            <lg>
+               <l>But ah! the ſad effect records the crime,</l>
+               <l>Unparalleld in any Age, or time;</l>
+               <l>For weeping <hi>Lucrece</hi> had no other ſhield</l>
+               <l>Than virtue, which deny'd her heart to yield:</l>
+               <l>And this all can be deduc'd from hence</l>
+               <l>That virtue was oppreſt by violence.</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:170248:4"/>
+               <l>But at the laſt, when violence had gain'd</l>
+               <l>The upper-hand, vile <hi>Tarquin</hi> was conſtrain'd</l>
+               <l>To flie, and leave <hi>Lucretia</hi> to lament,</l>
+               <l>Though not conceal her wofull baniſhment:</l>
+               <l>Judge Ladies her diſtreſſe, poor heart, her grief</l>
+               <l>Inclin'd her more to death, than to relief.</l>
+            </lg>
+            <lg>
+               <l>She wiſht to ſee her Lord, yet knew not how</l>
+               <l>To look upon him with a ſtedfaſt brow;</l>
+               <l>But when ſhe thought on his abuſed bed,</l>
+               <l>Ah then! ah then! her much dejected head:</l>
+               <l>Out ſtream'd a fountain, nothing could prevent</l>
+               <l>The nimble current of her diſcontent.</l>
+            </lg>
+            <lg>
+               <l>At laſt he comes, and with a fearfull haſt</l>
+               <l>In his expatiated arms imbrac'd</l>
+               <l>His <hi>Lucrece,</hi> who being tutor'd by here fears,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke all in ſighs, and anſwer'd him in tears:</l>
+               <l>Whilſt gazing <hi>Colatine</hi> with raging ſpeed,</l>
+               <l>Stampt out theſe words, <hi>I will revenge the deed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>So out he runs, but hark, a groan recalls</l>
+               <l>His haſty feet, for his <hi>Lucretia</hi>'s fall,</l>
+               <l>Wounded by her own hand, whilſt he in vain,</l>
+               <l>Lifts up her corps, and layes it down again:</l>
+               <l>At laſt poor ſoul, ſhe mov'd her dying head</l>
+               <l>And cry'd revenge, for thy <hi>Lucretia</hi>'s dead.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:170248:5"/>
+               <l>Ah! who can grieve with <hi>Collatine,</hi> whoſe grief</l>
+               <l>Admits no equall, but tranſcends belief,</l>
+               <l>He now is fled, and ranſacks all about,</l>
+               <l>Contrives and plots to finde young <hi>Tarquin</hi> out;</l>
+               <l>At laſt arriving where the Army ſtay'd,</l>
+               <l>The colours of his grief he thus diſplay'd.</l>
+            </lg>
+            <lg>
+               <l>Dear friends, the liberality of my ſpeech</l>
+               <l>Is humbly free, and fluent to beſeech</l>
+               <l>Your joynt aſſiſtance, to revenge a wrong</l>
+               <l>Whoſe intricacy neither pen, nor tongue</l>
+               <l>Is able to expreſſe: Alas! and I</l>
+               <l>Can only ſhaddow forth my miſery.</l>
+            </lg>
+            <lg>
+               <l>My dear <hi>Lucretia,</hi> In whoſe breſt did lie</l>
+               <l>My life, is fled unto eternity;</l>
+               <l>She's dead my Lords, and ah! if that were all</l>
+               <l>In time I might endevour to recall</l>
+               <l>My grief, ſhe is (my Lords) I ſpeak what's true,</l>
+               <l>Raviſh'd by death, nay, and by <hi>Tarquin</hi> too.</l>
+            </lg>
+            <lg>
+               <l>And if a worſer fate than this can be,</l>
+               <l>Ile ſwear there is no grief, no miſery;</l>
+               <l>But to be ſhort dear friends, I cannot now</l>
+               <l>Diſpoſe of ſo much time, as to utter how:</l>
+               <l>But the laſt ſound of my <hi>Lucretia</hi>'s breath</l>
+               <l>Was this, <hi>Revenge my rape, condole my death.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:170248:5"/>
+               <l>The frightned aire had hardly cool'd his words,</l>
+               <l>Before the Nobles with their ſoon-drawn ſwords</l>
+               <l>Vow'd a compleat revenge, and to effect</l>
+               <l>Their vow'd deſigns, they ſuffer'd no neglect</l>
+               <l>To harbour in their breaſts, but with a ſpeed</l>
+               <l>Wing'd with affection they perform'd the deed.</l>
+            </lg>
+            <lg>
+               <l>If I ſhould laviſh time, and here relate</l>
+               <l>Their ſev'rall battels, and their ſev'rall fate,</l>
+               <l>I might perplex my Reader with a ſtory</l>
+               <l>Of this mans ruine, and of that mans glory:</l>
+               <l>But at my period, I ſhould only ſay,</l>
+               <l>
+                  <hi>Tarquins</hi> bad cauſe, not valour loſt the day.</l>
+            </lg>
+            <lg>
+               <l>But let me ſay that in this fatall cloud</l>
+               <l>Of ruine, <hi>Tarquins</hi> father that did croud</l>
+               <l>Into the arms of danger to maintain</l>
+               <l>His ſons vile cauſe, deſervedly was ſlain:</l>
+               <l>And when young <hi>Tarquin</hi> heard his fathers fall,</l>
+               <l>He grew more deſperate, loſt himſelf and all.</l>
+            </lg>
+            <lg>
+               <l>Thus captive to his foes, his ſullen breaſt</l>
+               <l>Swell'd more with malice, than it ſeem'd oppreſt;</l>
+               <l>For like a baſe Uſurper, having thruſt</l>
+               <l>Himſelf in power, his actions muſt be juſt:</l>
+               <l>Nay, though the ſword decline him, yet would he</l>
+               <l>Make all Authentick by obduracie.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:170248:6"/>
+               <l>A brazen conſcience findes a brazen face,</l>
+               <l>
+                  <hi>Tarquin,</hi> becauſe he knew his foul diſgrace</l>
+               <l>Could not receive addition, grew ſo bold,</l>
+               <l>So peremptory, that what others told</l>
+               <l>To him in grief, he in diſdain, reply'd,</l>
+               <l>
+                  <hi>Lucretia</hi>'s rape, is <hi>Tarquins</hi> onely pride.</l>
+            </lg>
+            <lg>
+               <l>Since ſhe is dead, the thing that grieves me moſt</l>
+               <l>Is this, to think my ſpirits cannot boaſt</l>
+               <l>Of more enjoyments; but Ile ceaſe to crave,</l>
+               <l>For I am well content with what I have;</l>
+               <l>And if I die, I charge thee grief, forbear,</l>
+               <l>I am a Roman, and I ſcorn to fear.</l>
+            </lg>
+            <lg>
+               <l>Oh how Ile vex my foes! for when as I</l>
+               <l>Am brought to death, they ſhall not know I die;</l>
+               <l>He ſteal into a ſlumber, none ſhall ſay</l>
+               <l>They ſaw me die, although perhaps they may</l>
+               <l>Report they ſaw me dead; and <hi>Rome</hi> ſhall crie,</l>
+               <l>
+                  <hi>Tarquin</hi> hath taught us how to ſcorn, and die.</l>
+            </lg>
+            <lg>
+               <l>Well then, where's their revenge? for I am ſure</l>
+               <l>A <hi>Roman</hi> ſpirit never can endure</l>
+               <l>To triumph ore a corps; when ſmiling death</l>
+               <l>Shall put a period to my yielding breath;</l>
+               <l>What then? Alas! they only can concur</l>
+               <l>In this one ſenſe, he dy'd a <hi>Raviſher.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:170248:6"/>
+               <l>Thus, thus inſentiate <hi>Tarquin</hi> ſeems to ſhow</l>
+               <l>More raging courage, than repentant woe;</l>
+               <l>His inconſiderate thoughts think all things good,</l>
+               <l>And ſlightly wade through poor <hi>Lucretia</hi>'s blood:</l>
+               <l>Go forward Reader, and thou'lt quickly finde</l>
+               <l>An alter'd <hi>Tarquin,</hi> and a changed minde.</l>
+            </lg>
+            <lg>
+               <l>The Conſuls after ſerious debate</l>
+               <l>Concerning <hi>Tarquin,</hi> did agree, his fate</l>
+               <l>Should not be ſpeedy death, but ſhould be ſent</l>
+               <l>Into a ſad and laſting baniſhment,</l>
+               <l>That ſo his more deliberate thoughts might finde</l>
+               <l>A way to call his villany to minde.</l>
+            </lg>
+            <lg>
+               <l>This news arriving unto <hi>Tarquins</hi> ears,</l>
+               <l>He ſoon begins to argue with his fears:</l>
+               <l>Muſt I be ſent, cryes he, into a place</l>
+               <l>Of no ſociety, and there imbrace</l>
+               <l>Perpetual woe? Oh! how could Hell contrive</l>
+               <l>So great a plague to keep me ſtill alive?</l>
+            </lg>
+            <lg>
+               <l>What ſhall I doe in this extreme abyſſe</l>
+               <l>Of woe and torments? Death had been a bliſſe</l>
+               <l>Beyond expreſſion; Ah! muſt wretched I</l>
+               <l>Be ſo accurſt t' offend, and yet not die?</l>
+               <l>Oh moſt prodigious fate! vile <hi>Ixions</hi> wheel</l>
+               <l>Had been a paradiſe to what I feel.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:170248:7"/>
+               <l>Methinks I feel a ſudden fire that burns</l>
+               <l>My very ſoul, my former comfort turns</l>
+               <l>To preſent woe; methinks I grow, and ſwell</l>
+               <l>Into a larger Continent, ſure Hell</l>
+               <l>Hath chang'd his manſion, and intends to make</l>
+               <l>My troubled <hi>Tenement</hi> his fiery lake.</l>
+            </lg>
+            <lg>
+               <l>Since ſo it is, Ile labour to prevent</l>
+               <l>Their ſwelling laughter with a forc'd content.</l>
+               <l>Ile hide my ſorrows from their gazing eyes,</l>
+               <l>Ile ſeem to ſlight their malice, and deſpiſe</l>
+               <l>Their ſcornful mocks, but yet my heart will tell</l>
+               <l>My heart, that all within me, is not well.</l>
+            </lg>
+            <lg>
+               <l>But ſtay, ſhall I forget my ſelf, was I not born</l>
+               <l>A noble Roman, and ſhall I not ſcorn</l>
+               <l>Their impoſitions; ſhall I now relent</l>
+               <l>And prove a willing ſlave to diſcontent?</l>
+               <l>Fie <hi>Tarquin,</hi> fie; but hark, I hear the ſumme</l>
+               <l>Of my deſtruction, now my foes are come.</l>
+            </lg>
+            <lg>
+               <l>Courage my heart, be bold, and let them finde,</l>
+               <l>Thou haſt an Army in thy ſtrength'ned minde,</l>
+               <l>And if a preſſing ſigh ſhould chance to fly</l>
+               <l>Our of the priſon of thy minde, deny</l>
+               <l>It to be thine, ſo ſhall thy prying eyes</l>
+               <l>See thou diſown'ſt their laviſh tyrannies.</l>
+            </lg>
+            <lg>
+               <pb n="9" facs="tcp:170248:7"/>
+               <l>Even as the boyſterous Ocean, if deny'd</l>
+               <l>A preſent paſſage for her ſwelling tyde</l>
+               <l>Swells and looks big, and with inſulting waves</l>
+               <l>Aſſaults th' immoving ſhore which ſtoutly ſtaves</l>
+               <l>Its fury off; but if it proudly ſwell</l>
+               <l>Above the banks, 'tis time to bid farewell.</l>
+            </lg>
+            <lg>
+               <l>Even ſo our <hi>Tarquins</hi> paſsion, for a time</l>
+               <l>Found oppoſition, but at laſt did clime</l>
+               <l>Above his ſtrength, and when it was too late,</l>
+               <l>He ſoon deplor'd his miſerable ſtate,</l>
+               <l>And being caſt into a remote place,</l>
+               <l>He thus bewails his lamentable caſe.</l>
+            </lg>
+            <lg>
+               <l>Ah! what a ſad Companion is a heart,</l>
+               <l>Burthen'd with guilt; Alas! I can impart</l>
+               <l>No comfort to my ſelf, all things declare</l>
+               <l>My ruine, that's attended with deſpair:</l>
+               <l>Methinks I have a ſtill continued flood</l>
+               <l>Before my eyes, of chaſt <hi>Lucretia</hi>'s blood.</l>
+            </lg>
+            <lg>
+               <l>Nor is my eye diſturbed, but my ear</l>
+               <l>Is grown of late accuſtomed to hear</l>
+               <l>Strange dialects, methinks <hi>Lucretia</hi> cryes,</l>
+               <l>Revenge, revenge my wofull injuries:</l>
+               <l>And thus my eyes, my ears ſadly portend</l>
+               <l>A preſent woe, a miſerable end.</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="tcp:170248:8"/>
+               <l>Thus in a ſad diſcourſe vile <hi>Tarquin</hi> goes</l>
+               <l>He knows not where, being uſher'd by his woes;</l>
+               <l>At laſt arriving at a ſhadie grove,</l>
+               <l>Cloſe by a wanton ſtream he ſadly ſtrove</l>
+               <l>To mitigate his ſorrow, but his fire</l>
+               <l>Encreas'd above the reach of his deſire.</l>
+            </lg>
+            <lg>
+               <l>I am enflam'd, he cryes, could I deviſe</l>
+               <l>A way to quench my ſorrows with my eyes;</l>
+               <l>My eye enflam'd my heart, my heart combin'd</l>
+               <l>With my affections to corrupt my minde;</l>
+               <l>Thus <hi>minde,</hi> thus <hi>heart,</hi> obey'd a luſtful call;</l>
+               <l>Thus luſt procur'd my hate, and hate my fall.</l>
+            </lg>
+            <lg>
+               <l>Ah! how theſe ſilent fiſhes ſeem to ſport,</l>
+               <l>And revel in their cool aquarian Court!</l>
+               <l>Ah! how they bathe themſelves in their own flood,</l>
+               <l>Whilſt I am parboyl'd in a ſea of blood!</l>
+               <l>
+                  <hi>Lucretia,</hi> ah <hi>Lucretia!</hi> thou didſt finde</l>
+               <l>A raped body, I a raped minde.</l>
+            </lg>
+            <lg>
+               <l>At laſt the Sylvane Choriſters begun</l>
+               <l>Their warbling notes to the departing Sun,</l>
+               <l>Which <hi>Tarquin</hi> hearing with a deep-fetch'd groan</l>
+               <l>He cry'd, How more than happy's every one</l>
+               <l>Of theſe care-wanting creatures! they are free</l>
+               <l>From the rude hand of griping tyrannie.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:170248:8"/>
+               <l>And now deploring <hi>Philomel</hi> begins</l>
+               <l>Her ſad, and melancholy notes, and ſpins</l>
+               <l>Her tedious notes unto the ſmalleſt thred</l>
+               <l>As if ſhe meant to ſtrike poor <hi>Tarquin</hi> dead;</l>
+               <l>For he no ſooner heard her, but he cries,</l>
+               <l>Sweet <hi>Philomel</hi> forbear thy tyrannies.</l>
+            </lg>
+            <lg>
+               <l>Tell me thou woful wretch, doe not deny</l>
+               <l>Who was moſt villain<note n="*" place="margin">The Poets fain, that <hi>Philomel</hi> was a Lady of an incompa<g ref="char:EOLhyphen"/>rable beauty, and being raviſhed by one <hi>Tereus,</hi> ſhe importu<g ref="char:EOLhyphen"/>ned the Gods that ſhe might be turned into a Bird; ſince which time ſhe ſadly deplored her misfortune, and is vulgarly called a Nightingale.</note> 
+                  <hi>Tereus,</hi> or I;</l>
+               <l>Was it not he did perpetrate thy rape,</l>
+               <l>And made thee wiſh thy ſelf into this ſhape?</l>
+               <l>Since which ſad time having baniſht all delight,</l>
+               <l>Thy ſham'd-fac'd ſorrow ſhroud themſelves in night.</l>
+            </lg>
+            <lg>
+               <l>Let me conjure thee <hi>Philomel</hi> to ceaſe</l>
+               <l>Thy high ſtrain'd notes, for they doe much encreaſe</l>
+               <l>My raging grief; and now, ah now! I finde</l>
+               <l>Horrour in ſweetneſſe, why art thou unkinde,</l>
+               <l>And wilt not ceaſe? thou ſhalt not ring my knell,</l>
+               <l>For Ile be gon, ſo <hi>Philomel,</hi> farewell.</l>
+            </lg>
+            <lg>
+               <l>Away goes <hi>Tarquin, Philomel</hi> purſues;</l>
+               <l>The more he flyes, ſhe more and more renewes</l>
+               <l>Her ecchoing notes, he ſwears, ſhe chants and rears</l>
+               <l>Her ſhriller accents to his tortur'd ears,</l>
+               <l>Enrag'd he cryes, the Gods did doe thee wrong</l>
+               <l>To take thy womans ſhape, yet leave her tongue.</l>
+            </lg>
+            <lg>
+               <pb n="12" facs="tcp:170248:9"/>
+               <l>Will not entreaties move thee? wilt thou ſtill</l>
+               <l>Send arrowes to my ſoul, and be thus ſhrill?</l>
+               <l>Peace witch thou tempt'ſt my patience, every note</l>
+               <l>Derived from the Magick of thy throat</l>
+               <l>Strikes me to death, but ah, I will not hear;</l>
+               <l>For if thou find'ſt a tongue, Ile want an ear.</l>
+            </lg>
+            <lg>
+               <l>With that he ſtops his ears, but all in vaine,</l>
+               <l>His fancy turnes all <hi>Philomels,</hi> and ſtraine</l>
+               <l>Far higher notes; ſo he, at length let fly</l>
+               <l>The portalls of his eares, and by and by</l>
+               <l>More then a flock of Nightingalls, being met,</l>
+               <l>They thus contriv'd to pay <hi>Lucretia</hi>'s debt.</l>
+            </lg>
+            <lg>
+               <l>Firſt, they encampe about his eares, and ſend</l>
+               <l>A party out of notes, which recommend</l>
+               <l>Themſelves unto him, whil'ſt affrightn'd he</l>
+               <l>Decayes, and reels into an extaſie.</l>
+               <l>Then they aſſault him with full bodied notes</l>
+               <l>Diſcharged from the Engins of their throats.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Tarquin,</hi> not encourag'd to abide</l>
+               <l>So hot a Charge, falls down, and falling dy'd.</l>
+               <l>Which they perceiving preſently ariſe</l>
+               <l>And flockt about him, and pickt out his eyes;</l>
+               <l>From which ſad ſtory we may well infer,</l>
+               <l>That <hi>Philomel</hi> abhors a Raviſher.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
